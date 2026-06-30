@@ -12,7 +12,7 @@ int main() {
 
     // Getting input from user
     cout << "Enter your name: ";
-    getline(cin, name);           // برای گرفتن اسم کامل
+    getline(cin, name);           // to get full name
 
     cout << "Enter your age: ";
     cin >> age;
